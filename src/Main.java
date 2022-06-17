@@ -1,5 +1,6 @@
 interface FirstInterface {
     public static int qqq = 1;
+    ////   public static int qqq = 1;
     public void myMethod(); // interface method
 }
 
